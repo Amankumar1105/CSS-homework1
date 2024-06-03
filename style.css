@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+
+    /* background: rgba(0, 0, 0, 0.7); */
+    /* opacity: 0.1; */
+    /* background-image: linear-gradient(rgba(256, 256, 256), url(https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg)); */
+
+}
+
+#signin{
+    background-color: red;
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+#register{
+    background-color: red;
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 14px;
+    padding-right: 14px;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-left: 12px;
+}
+
+.div2{
+    display: inline-block;
+    width: 40%;
+    padding: 30px;
+    box-sizing: border-box;
+}
+.div3{
+    display: inline-block;
+    text-align: right;
+    width: 45%;
+    padding: 30px;
+    margin: 0;
+    box-sizing: border-box;
+    float: right;
+}
+.div1{
+    width: 100vw
+}
+
+h1{
+    font-size: 55px;
+    margin: 0;
+    color: white;
+}
+
+#p2{
+    font-size: 23px;
+    color: white; 
+}
+
+#p1{
+    font-size: 28px;
+    /* margin: 13px; */
+    font-weight: 400;
+    color: white;
+    margin-top: 13px;
+}
+.div4{
+    text-align: center;
+    padding-top: 182px;
+}
+
+img{
+    padding-left: 190px;
+}
+
+#div1{
+    background-color: rgba(0,0,0,0.7);
+
+    height: 100vh;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+/* .button{
+    display: inline-block;
+}
+
+.register{
+    display: inline-block;
+} */
